@@ -41,3 +41,44 @@
 
 
 ## 3. Crea un *sketch* para la herramienta del dashboard de Laboratoria.
+
+## Dashboard Laboratoria: Primer sketch 
+
+## Entrada: Log in & Sign in
+
+Registro: 
+Datos personales
+¿En este caso aplican los "Términos y condiciones?" y la "Política de Privacidad"?
+
+Home:
+Barra de navegación:
+Bienvenida con nombre de usuario
+Logo
+Configuración, info, ayuda
+Sede-menu desplegable
+Botón alumnas
+
+### Primera Sección:
+
+Mis estadísticas - preferencias establecidas por usuari@ en la configuración o los datos consultados con mayor frecuencia o los últimos datos consultados.
+
+### Segunda sección:
+
+Datos y estadísticas que muestren un panorama general de la sede de usuari@
+
+### Tercera sección:
+Datos y estadísticas que muestren un panorama general de todo Laboratoria
+
+### Barra lateral:
+Inspirada en el daily stand up y las retrospectivas a final de Sprint, muestran los aciertos, las áreas de oportunidad y cosas que se pueden cambiar para alcanzar los objetivos. 
+
+
+## Sede.
+
+Al seleccionar una sede del menú desplegable aparecen los datos y estadísticas de la sede en general, por turnos o grupos, sí los hay y otros datos relevantes propios de la sede que se consulta. También tiene su barra lateral con los aciertos, cosas nuevas por probar y áreas de oportunidad.
+
+## Alumnas.
+
+En Alumnas hice una primera versión con una barra de búsqueda y al lado la leyenda "filtrar", sin embargo, después de una primera interacción, eliminé "filtrar" y metí los filtros como opciones dentro de la propia barra. Estás opciones permitirían ver el rendimiento, los datos y las estadísticas de las alumnas por sede, grupo, turno, squad o de manera individual.
+La última imagen corresponde a cómo se vería una consulta individual. En la primera parte: la foto de la alumna, sus datos personales y su rendimiento duarante el sprint en curso. Abajo sus estadísticas por rendimiento general técnico y HSE y estas mismas estadísticas desglosadas por sprint. Al derecha, la barra lateral con las fortalezas y áreas de oportunidad y un formulario por si se desea enviar comentarios acerca de la alumna. 
+
