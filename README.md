@@ -99,3 +99,16 @@ En Alumnas hice una primera versión con una barra de búsqueda y al lado la ley
 La última imagen corresponde a cómo se vería una consulta individual. En la primera parte: la foto de la alumna, sus datos personales y su rendimiento duarante el sprint en curso. Abajo sus estadísticas por rendimiento general técnico y HSE y estas mismas estadísticas desglosadas por sprint. Al derecha, la barra lateral con las fortalezas y áreas de oportunidad y un formulario por si se desea enviar comentarios acerca de la alumna. 
 
 ![Alumnas perfil individual](./images/008.jpg)
+
+
+**Comentario**
+
+Se realizó una primera prueba con una usuaria de 60 años, maestra que ha laborado en el área de Planeación Académica y cuyo acercamiento a la tecnología es muy básico. 
+
+1. El log in y sign in fueron procedimientos muy sencillos de reconocer y realizar por su claridad y semejanza con otros formularios similares.
+
+2. El botón "alumnas" causó un poco de confusión, pues la usuaria pensó que estaba dirigido a las alumnas.
+
+3. En la primera versión donde la barra de búsqueda tenía la opción de filtrar, dicha opción fue omitida por la usuaria pero solicitó un menu desplegable de consulta dentro de la misma barra de búsqueda.
+
+4. En general fue del agrado de la usuaria.
